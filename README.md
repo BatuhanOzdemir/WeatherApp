@@ -17,7 +17,7 @@ The app fetches real-time weather data from the **OpenWeatherMap API** and displ
 
 ---
 
-
+```
 ## 📐 Project Structure
 
 com.example.weatherapp
@@ -43,6 +43,7 @@ com.example.weatherapp
 │
 └── utils
 └── Constants.java
+```
 
 ## 🔑 Setup & Usage
 
